@@ -15,7 +15,7 @@ Spotify 1.1.51.380
 - [ ] Read total time of the song.  
   
 ### How To Use
-[Link To Wiki!](https://github.com/turbosmurfen/spoton/wiki/Howto)
+[Link To Wik!](https://github.com/SpotNP/SpotOn/wiki/Howto)
 
 ### Example image for mIRC 7.64
 ![Image](https://github.com/turbosmurfen/spoton/blob/main/img/spoton_example.png)
